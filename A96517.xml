@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the present authority of Parliament now sitting, and to all other rulers and officers belonging to this nation of England, who now bears chiefest rule. Some words of reflection to you all, touching those who bear rule before you, whom the Lord hath justly put down from their seats ... but this chiefly to you who are the present rulers [to] put you in minde of the cry of the neglect of the righteous; also to yourselves a warning and true admonition. / [by] Bryan Wilkinson.</title>
+            <author>Wilkinson, Bryan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96517</idno>
+            <idno type="STC">Wing W2217</idno>
+            <idno type="STC">ESTC R186582</idno>
+            <idno type="EEBO-CITATION">47683558</idno>
+            <idno type="OCLC">ocm 47683558</idno>
+            <idno type="VID">173012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173012)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the present authority of Parliament now sitting, and to all other rulers and officers belonging to this nation of England, who now bears chiefest rule. Some words of reflection to you all, touching those who bear rule before you, whom the Lord hath justly put down from their seats ... but this chiefly to you who are the present rulers [to] put you in minde of the cry of the neglect of the righteous; also to yourselves a warning and true admonition. / [by] Bryan Wilkinson.</title>
+                  <author>Wilkinson, Bryan.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Quaker authors.</term>
+               <term>Quakers --  Persecutions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173012:1" rendition="simple:additions"/>
+            <p>TO THE Preſent Authority OF PARLIAMENT NOW SITTING, And to all other Rulers and Officers belonging to this Nation of <hi>England,</hi> who now bears chiefeſt Rule.</p>
+            <p>Some words of Reflection to you all, touching thoſe who bear Rule before you, whom the Lord hath juſtly put dow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from their Seats, which words may be uſeful for ſo many o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them as have eſcaped the hand of the Lord, as yet not to be utterly cut off, before he proceed any further againſt them.</p>
+            <p>But this chiefly to you who are the preſent Rulers t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> put you in minde of their neglect of the cry of the Righteous; Alſo to your ſelves a Warning and true admonition.</p>
+            <q>
+               <p>Exalt ye the Lord our God, and worſhip at his foot-ſtool, for he is ho<g ref="char:EOLunhyphen"/>ly,</p> 
+               <bibl>Pſal. 99. 5.</bibl>
+            </q>
+            <q>
+               <p>Give glory to the Lord your God, before he cauſe darkneſſe, and be<g ref="char:EOLunhyphen"/>fore your feet ſtumble upon the dark mountains, and while ye look f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Light, he turn it into the ſhadow of death, and make it groſſe darkneſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p> 
+               <bibl>Jer. 13. 16.</bibl>
+            </q>
+            <p>Bryan Wilkinſon.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mou<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:173012:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE former Parliaments and Rulers which were before you now of late years who were worldly wiſe men, and accounted by many, even the wiſdom of the Na<g ref="char:EOLhyphen"/>tion, and theſe wiſe men the Lord God of heaven and earth, the great wiſe God who is Lord over all, yet not known nor comprehended by all the wiſdom of the world, he unto them in the time of their ſitting and Rule, did unto them ſend many faithful meſſen<g ref="char:EOLhyphen"/>gers, ſervants and Prophets, even righteous men riſing up early: early did the Lord ſend unto them in the beginning of their times of ſitting, and Rule, and reign, and by them theſe Rulers were often and faith<g ref="char:EOLhyphen"/>fully warned time after time, in their times while they bear Rule; that they ſhould Rule in righteouſneſs, and call to mind their former engage<g ref="char:EOLhyphen"/>ments and promiſes which they made unto the Lord, and unto the honeſt hearted of the Nation, in their way of worſhip toward God without re<g ref="char:EOLhyphen"/>ſtraint, theſe things were often laid before them by divers of the Lords people called <hi>Quakers,</hi> from a feeling condition of the want of theſe things being fulfilled.</p>
+            <p>But theſe Rulers which were before you, they did nor regard the true meſſages, but did ſleight the Lords ſervants whom he did ſend unto them, though Gods witneſs in themſelves did often let them ſee that their meſſage was true, juſt, and equal; but their meſſage being a croſſe unto the wiſdom of theſe Rulers who had loſt the tenderneſs in which they promiſed (take good notice of that) their meſſages being a croſſe unto their wiſdom their worldly honours, and worldly intereſt, therefore in<g ref="char:EOLhyphen"/>ſtead of hearkening to the ſervants of the Lord, theſe Rulers rather hearkened unto the Teachers of the Nation, even the falſe Prophets who joyned with them for worldly intereſts; and ſo went from the wit<g ref="char:EOLhyphen"/>neſs of God in themſelves unto the counſel of their own hearts, which were one with the falſe prophets without, ſo the wiſdom of God became fooliſhneſs unto them, and ſo they broke Covenants with God and his people which formerly they had made.</p>
+            <p>Then began they to deſpiſe the Lords ſervants when they went from the reproof of the Lord in themſelves; &amp; ſo ſuffered them with the reſt of the people of the <hi>Lord</hi> to be perſecuted, beat and whipped &amp; impriſoned, and their goods to be ſpoiled by the Prieſts of the Nation and others through unjuſt Popiſh lawes, which was ſet up and made by Popiſh governors for the maintenance and guarding of Popiſh Prieſts and theſe lawes perſe<g ref="char:EOLhyphen"/>cuting Magiſtrates took hold of, and perſecuted them which bore a true Teſtimony for the <hi>Lord,</hi> as they were moved by him, though formerly they had hazarded their lives with many of theſe Rulers who gave them thus up into the hands of wicked men, and ſo every one as they departed from
+<pb n="3" facs="tcp:173012:2" rendition="simple:additions"/> iniquity, and bore a teſtimony for God, were unto this generation made a prey.</p>
+            <p>Nevertheleſs the threatnings, ſcoffings, and revilings, the Barbarous and cruel oppreſſions, hard yokes and heavy burdens, beatings, bruiſings bloodſhed, priſons, and perſecutions which was inflicted upon us in this time of theſe Rulers neglect of true Juſtice, all this did not take away our confidence which we have in the Lord, but unto him was our cauſe and innocence committed, and he of us hath never been ſought to in vain. I ſay in theſe times of our troubles the <hi>Lord</hi> was ſtill our hope, and theſe Rulers was ſtill warned, and our unjuſt ſufferings laid often before them; but they did not lend their ear ſo as to take off theſe oppreſſions, but heardened their hearts, and encouraged the <hi>Lords</hi> enemies, and ours, and ſo ſtrengthened the hands of evil doers againſt us, ſo that there was ſuch cruel and horrible things committed in the Land upon us, as never was heard of amongſt a people who profeſſed Chriſtianitie and declared againſt Idolatrie.</p>
+            <p>But the <hi>Lord</hi> being diſpleaſed with their hypocriſie, he broke theſe Counſellors one after another; for they took not Counſel at him, but againſt him, and heardened their hearts, and did not obey the voyce of the <hi>Lords</hi> meſſenges, who time after time did warn them as they were moved of the <hi>Lord;</hi> ſo the time of the <hi>Lords</hi> determination being finiſhed, and the cry of the oppreſſed waxing loud in his ears, the <hi>Lord</hi> would no longer ſtrive with them, but in his wrath he roſe up againſt them, becauſe they continued in Rebellion againſt him, and ſome of them he cut off, in his diſpleaſure for turning from their righteouſneſs, and many of them he hath brought to ſhame, which before they might have acted that, when they did bear rule, which God would have honoured them for, and their names might have been in memorial from generation to generation among the <hi>Lords</hi> people, and great things might have been done by them if their minds had been towards the <hi>Lord</hi> to have acted for him, and not againſt him, which would have crowned them with honour and not ſhame, and the hearts of the righteous would have rejoyced, and not have been made ſad, and the work of the <hi>Lord</hi> they would have put their hands to, and not have been againſt it. But the work of the <hi>Lord</hi> muſt go on in this day of his power, and who can let it? for wo be unto him that ſtriveth with his Maker, or againſt the <hi>Lord;</hi> for he is jealous of his Name, and none muſt be proud againſt him, for in this day of his power he will bring down the loftie from their ſeats, and the underſtanding of the prudent muſt come to nought.</p>
+            <p>But now to you who are the preſent Authoritie, that you in your time do not forget the Lord; for the time is come that every one muſt be tryed, and now are you ſet up again that you may be tryed, and now hath the Lord a great work in hand, and if you will ſtand up for him, he will be for you, and with you to keep you together; if you do not, he will be againſt you, and break you to pieces. But if you ſeek to honour him, then will he honour you, if you ſeek to ſet up your ſelves, and the falſe Prophets who teaches for hire, and will not teach without a ſet main<g ref="char:EOLhyphen"/>tenance, this is not right in the ſight of the Lord; but he will ponder
+<pb n="4" facs="tcp:173012:3" rendition="simple:additions"/> your wayes and weigh you in his Balance, and you will be found wanting to do that which ſhall be for him; But on the contrary, that which is againſt him; for this thing will be abominable unto him, &amp; you will be found doing that which is evil in the ſight of the Lord, and the hand of the Lord wil be againſt you for this thing more then it was againſt them which were before you, they being examples unto you made who comes after them, for theſe overturnings amongſt you hath been by him who throws down one, &amp; ſets up another; But is now ſetting up of his own Son to reign, whoſe right it is, which makes the heathen to rage and the people to imagine vain things. But be ye inſtructed, and kiſſe the Son leaſt he be angry, before his wrath be kindled againſt you, in this his day, wherein many are offering gifts unto him, But <hi>Cains</hi> ſacrifice will not be accepted, nor <hi>Eſaus</hi> tears ob<g ref="char:EOLhyphen"/>tain the bleſſing again; Nor <hi>Judas</hi> repentance did at all avail when he had betrayed the blood of the innocent into the hands of the Prieſts and Elders.</p>
+            <p>Now if you ſay all this is true, but what is it to us we have no ſuch thoughts to do as the other Rulers did before us, as to ſuffer any for conſcience ſake to be beat, whipped or impriſoned, or to have their goods ſpoiled, or to give up the innocent into the hands of wicked men. But the true work of the Lord is the thing which we aim at, and the exaltation of his Son that he alone may reign according to our former engagements and promiſes which we made unto him, if it were ſo then may it be ſaid the Lord be with you, but if any of you draw back from this, the juſt God will have no pleaſure in ſuch, but his juſt hand will be againſt them; but ſo many of you as do deſire to do that which may be right in the ſight of the Lord, all ſelf-ends, ſelf-intereſts, prejudice, worldly honour, reſpect of perſons, ſet aſide, then to that of God in your ſelves turn in, which lets you ſee that you are but men, and this is the light which Chriſt Jeſus hath enlightened you withall, which is ſpi<g ref="char:EOLhyphen"/>ritual, and you joyning with this it, will make you like it, and like him from whence it doth proceed, even Chriſt the power of God to every one who believes, and as you come to be like him, then will you do the will of God, and not your own, then will you ceaſe from your own works, and do the work of the Lord; now if you ſay, what is the work of the Lord that we are to do in this day of his power, that he will have his Son to reign in? or what can we do, if he take the Government unto himſelf?</p>
+            <p>My anſwer is; that the work of the Lord in this day of his power is, that every one may be brought to be ſubject to his own power, the power of God, and this every one is to know in themſelves which will keep in obedience unto him, as they keep unto it, and teach them how to exerciſe their conſciences both towards God, and men; I ſay that this is the Lords work which he is begun to work. Now your work and your places is to cheriſh ſuch and to be a praiſe unto them who doth thus wit<g ref="char:EOLhyphen"/>neſs the power of God in themſelves, in whoſe hearts the righteous Law of God is ſet up which doth regulate their wayes and ſo teach them the exerciſe of a good conſcience both towards God and towards man; and as you your ſelves are ſubject unto him who hath enlightened you with
+<pb n="5" facs="tcp:173012:3" rendition="simple:additions"/> his light, with it he will let you ſee who are from the power of God, and no otherwiſe you can ſee, and as you your ſelves are ſubject to the higher power, the power of God, then with the light you will ſee how to exer<g ref="char:EOLhyphen"/>ciſe your power among thoſe, who are not ſubject to the higher power, and ſo be a terror to all evil doers.</p>
+            <p>Now Rulers are not a terror to good works, nor to them that do well, and this I can ſpeak by experience, who have had a ſhare of ſuch ſuffe<g ref="char:EOLhyphen"/>rings among the Lords people now of late, who have ſuffered as evil do<g ref="char:EOLhyphen"/>ers, yet innocent, and doing no evil, but good, and ſo the power which is a terror to him that doth evil, We had praiſe of the ſame, though much we ſuffered by blind perſecuting Magiſtrates, who were from the power of God, in themſelves, and ſo turned the edge of the ſword againſt the in<g ref="char:EOLhyphen"/>nocent, and deeply have many ſuffered now of late yeares, both in their bodyes and eſtates by ſuch blind perſecuting Magiſtrates, that never knew the power of God in themſelves, from which they ſhould have ac<g ref="char:EOLhyphen"/>ted, nor never knew the Powers that are ordained of God, but acted by their own wills, being many of them men of prejudiced ſpirits, and their ground from which they acted was from old popiſh Lawes which was made and ſet up by Popiſh Rulers, in the dark night of Apoſtacy, for binding and compelling, killing and deſtroying, yet thinking they did God ſervice, and theſe Lawes were one with the dark principles of theſe Ma<g ref="char:EOLhyphen"/>giſtrates now of late, who thus did perſecute without a cauſe, and ſo ma<g ref="char:EOLhyphen"/>ny of the Lords dear people. both in ages paſt, and now of lateſt yeares for conſcience ſake have ſuffered deeply by binding and compelling Laws, becauſe they could not pay and conform to ſuch things as was required of them, and of ſuch unjuſt ſufferings we, who are by <hi>Iſhmaels</hi> generation called <hi>Quakers,</hi> have had the deepeſt ſhare in, and this you are not ignorant of; So now it lies upon you to remedy theſe things, for the Lord doth re<g ref="char:EOLhyphen"/>quire it at your hands, for he hath looked down upon the afflictions of his people, and have beheld their grievious oppreſſions, and the time is come that the Lord will eaſe himſelfe of his adverſaries, and avenge himſelfe of his enemies, who will not that he ſhould reigne: Now all binding and compelling Lawes, touching the worſhip of God makes many hypocrites both to God and to men &amp; this is plainly ſeen in theſe our daies, for many now who cannot give up themſelves unto ſuffering, are miſerably enſlaved in themſelves, becauſe of binding and compulſive Lawes, and ſo remains under a condemned eſtate in bondage; and if hypocrites and unbelievers are to be turned into the lake, then what ſhall the portion of them be, who either makes Lawes or upholds lawes, which makes hypocrites? and if the loſſe of a mans ſoul be of more value then a whole world, then what or how ſhall they be able to anſwer the <hi>Lord,</hi> or to ſtand in judgement be<g ref="char:EOLhyphen"/>fore him, who by ſuch lawes doth compel men to ſin againſt their owne conſciences? ſo this doth lie upon you from the <hi>Lord,</hi> that you do break off every ſuch a yoke, and that you neither make nor uphold ſuch lawes, or<g ref="char:EOLhyphen"/>dinances, acts, or what you may call them, as we have ſo deeply ſuffered by; Namely any law for payment of Tythes, or any law to limit the holy One in any kind what ever, particularly that none be hindred as they be moved of the <hi>Lord</hi> to ſpeak the word of the <hi>Lord</hi> in any place or aſſem<g ref="char:EOLhyphen"/>bly
+<pb n="6" facs="tcp:173012:4" rendition="simple:additions"/> of people, for in theſe two things, eſpecially hath many Magiſtrates and Prieſts, who leaned upon them, been the cauſe of many unjuſt ſuffe<g ref="char:EOLhyphen"/>rings, though for their wicked covetouſneſſe the <hi>Lord</hi> hath ſmitten many of them both:</p>
+            <p>Now there is no queſtion, but you who are the preſent authority, hath to do with this generation of men, the Prieſts who have been ſuch per<g ref="char:EOLhyphen"/>ſecutors of us, as the other Rulers had who were before you. Now I ſay unto you as from the <hi>Lord,</hi> that in his true fear you ſtand, and that you joyne not with them whom the <hi>Lord</hi> is againſt, who doth not profit the people at all, but doth cauſe them to err as the falſe prophets did, whom the Prophet <hi>Jeremy</hi> ſpeaks againſt, <hi>Jer.</hi> 23. 32. Now the Prieſts of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> are ſuch, this is a true teſtimony againſt them, whether you can be<g ref="char:EOLhyphen"/>lieve it or no; therefore be warned and take heed how you give your ſtrength unto them, for if you give it unto them, you give it unto the har<g ref="char:EOLhyphen"/>lot, for they who preach for hire and divine for mony, are adulterated from the <hi>Lord,</hi> yet they will lean upon the <hi>Lord,</hi> the Prieſts and falſe pro<g ref="char:EOLhyphen"/>phets who taught for hire, did ſo in the Prophet <hi>Micahs</hi> daies, <hi>Mic.</hi> 3. 11. the Prieſts of <hi>England</hi> doth ſo, they preach for hire, and ſaies, is not the <hi>Lord</hi> among them, But they lean upon the Rulers of <hi>Eng.</hi> for to compel people to hire them, and divers of them, have thruſt themſelves among a people, and have forced them in ſome places by orders which they have got from the Rulers of the Nation, or by ſome order from ſome other Prieſt above them, which he hath had from the Rulers, I ſay ſome of them have by compul<g ref="char:EOLhyphen"/>ſion, come in to a pariſh againſt the peoples minde, and when they are ſet down then from every houſe, and from every quarter of the pariſh, they begin to look for their gain, but ſuch the prophet <hi>Eſay</hi> cals blind watch<g ref="char:EOLhyphen"/>men, and greedy dumbe dogs; and now theſe Prieſts who doth thus, they will ſay my Pariſh, and my people, when many of the people are againſt him, and ſome of theſe for conſcience ſake cannot goe to hear him at all, and yet of ſuch he will look for gain from, is not here horrible things committed in the land, Prieſts preaching for hire, and bearing Rule by their meanes? but what will ye do in the end ſaith the Lord.</p>
+            <p>Now if you ſay tithes were given by God, under the firſt prieſthood, and why may they not ſtand now for Miniſters maintenance? I anſwer, no; for who ever goes about to keep up Tythes under what pretence ſo ever, doth deny Chriſt come in the fleſh, and ſo are the antichriſts; for the Apoſtle to the <hi>Hebrewes</hi> ſayth, <hi>Heb.</hi> 7. 5. that they who are of the ſons of <hi>Levi,</hi> who receive the office of the Prieſthood, have a commandement to take Tythes, and in the 12 verſe he ſaith, the prieſthod being changed there is made of neceſſity alſo a change of the Law, &amp; in the 18. v. he ſaith verely there is a diſanulling of the commandement going before; now the law being changed &amp; the commandement diſanuled which was for tithes which God commanded, how can any who owns the Apoſtles Doctrine, be ſubject to it, and deny the Apoſtles doctrine, and conſequently Jeſus Chriſt his coming in the fleſh? who is the ſume of all things before ſpo<g ref="char:EOLhyphen"/>ken of, who ſaid unto thoſe whom he ſent forth, freely ye have received freely give, and thoſe whom he hath ſent forth, obeyed his voice, and when
+<pb n="7" facs="tcp:173012:4" rendition="simple:additions"/> they returned again, they wanted nothing, and they were to go whither Chriſt ſent them, and not to thruſt themſelves into places, nor to inquire after places, and get places where they could, or liked, and there to ſit down for terme of life, or till they heard of another place, which would be more for their profit. O ſurely you cannot but ſee theſe things to be abominable, and much it is, that they themſelves who would be accoun<g ref="char:EOLhyphen"/>ted Goſpel Miniſters doth not bluſh to think of theſe things. But ſurely they are very impudent, for they have been ſufficiently warned, and the truth plainly declared to them, and their falſe waies and practices truly declared againſt, for which they do account us to be their enemies, though nothing but the truth hath been ſpoken unto them.</p>
+            <p>And though you may count me ſo, for telling you the truth, yet whe<g ref="char:EOLhyphen"/>ther you will hear or forbear, this is truth unto you, that if you go about to ſet up or to uphold ſuch a Miniſtery or ſuch a maintenance, or ſuch a worſhip, as to make the old Maſſe-houſes which the Papiſts built for their Idolatrous worſhip, and make them your chief places of worſhip, as the other Rulers did which were before you; aſſuredly the Lord will be a<g ref="char:EOLhyphen"/>gainſt you for theſe things, and his preſence will not be with you, for he expects far greater things from you now, then what you ſaw when you were choſen at the firſt of all, nor will the Lord ſuffer that to ſtand by you for which he hath thrown others out before you; for theſe old Maſſe-houſes, falſely called Churches, the gleab land belonging them, the tythes which hath been laid to them, the augmentations, revenues, the bells that hangs in them, and other maintenance, dues, cuſtomes, and pay<g ref="char:EOLhyphen"/>ments which are claimed as belonging them, beſides many practices in their way of worſhip in them, are as truly ſeen now to be Idolatrous and contrary to the mind of God now in theſe daies, as ever the groves, the high places and the Idolatrous houſes was in the daies of <hi>Iſrael,</hi> and they have been as truly cryed out againſt, as from the mind of the Lord, as ever the other was by the true prophets of God in that age.</p>
+            <p>So now be wiſe and be inſtructed ye Rulers of the Earth, that the mind of the Lord you may come to know, and take heed how you go about to limit the Lord in any kind what ever, for the Lord hath ſought out, and hath found out many now who doth worſhip him in ſpirit and in truth, who neither can goe to one ſet place or another; But as the Lamb guids them who is the leader of them, whoſe voice they know and follow, and after none other can they goe, and ſuch theſe Scriptures finds fulfilled, that God doth not dwell in Temples made with hands.</p>
+            <p>So to you who deſire to do the Lords will, conſult not with fleſh and blood, but do what is in your hearts, for the Lord, &amp; in the Lords counſel ſtand his will to know, even to that turn to, which diſcovers unto you the ſecrets of your hearts when you are alone, and ſhewes unto you them things to be evil which no man can accuſe you of, and ſhewes you ſuch a good way as you never yet walked in, there is ſome thing in you, ſhall find if you do but hearken, and lend your eare unto it, which will not flatter you in any thing, in that principle ſtay your minds, and from that principle do not goe, and then you will know a true voice in your ſelves, and by it you will know the true voice without. But if from this prin<g ref="char:EOLhyphen"/>ciple
+<pb n="8" facs="tcp:173012:5" rendition="simple:additions"/> you go, then from the true voice you go in your ſelves, and ſo will yeild to the wrong voice without, which will lead you to ſet up that which the Lord is throwing down, which is all falſ waies &amp; falſe worſhips &amp; falſe worſhipers, which God is againſt, and the Scriptures of truth doth declare againſt: So of the beaſtly power take you heed, for if you go a<g ref="char:EOLhyphen"/>bout to uphold the falſe prophets who teaches for hire, and runs when the <hi>Lord</hi> never ſent them, and ſo doth not profit the people at all, and ſuch as are perſecutors, and are found in the ſteps of Scribes and Phariſees, your power will be no other but the beaſtly power, which makes war againſt the <hi>Lamb;</hi> But if you ſhould do ſo, the <hi>Lamb</hi> will have the victory: But as you act from the ſpirit of God which is pure, you will love all men without reſpect of perſons, and ſeek the peace and ſafty of all, as to their perſons, and the overthrow of that which is evil in all; And as for Mini<g ref="char:EOLhyphen"/>ſters and Teachers for the Nation, you need take no thought, for the <hi>Lord</hi> of the harveſt Chriſt muſt ſend forth, and he will fit them for his own work without Schools of great learning, or made by the will of man, and no other can profit the people, but ſuch as he ſends forth.</p>
+            <closer>
+               <signed>B. W.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
